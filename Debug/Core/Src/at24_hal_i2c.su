@@ -1,0 +1,6 @@
+at24_hal_i2c.c:50:5:at24_HAL_WriteBytes	48	static
+at24_hal_i2c.c:85:5:at24_HAL_ReadBytes	48	static
+at24_hal_i2c.c:131:5:at24_HAL_SequentialRead	40	static
+at24_hal_i2c.c:159:5:at24_HAL_EraseMemFull	56	static
+at24_hal_i2c.c:189:5:at24_HAL_WriteString	56	dynamic
+at24_hal_i2c.c:211:5:at24_HAL_ReadString	48	dynamic
